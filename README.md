@@ -46,9 +46,9 @@ public/
 > ⚠️ Make sure [Node.js](https://nodejs.org/) and npm are installed.
 
 1. **Clone the repository**  
-   git clone https://github.com/smruthik24/To-Do-List-react.git
+   git clone https://github.com/smruthik24/To-Do-list.git
    
-   cd To-Do-List-react
+   cd To-Do-list
 2. **install dependencies**
    
    npm install
